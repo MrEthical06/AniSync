@@ -1,1 +1,1368 @@
-
+{
+  "anime": [
+    {
+      "id": "1",
+      "malId": "1",
+      "slug": "cowboy-bebop",
+      "kitsuId": "1",
+      "coverImage": "https://media.kitsu.io/anime/poster_images/1/original.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1-OquNCNB6srGe.jpg",
+      "trailer": "https://www.youtube.com/watch?v=qig4KOK2R2g",
+      "status": "FINISHED",
+      "season": "SPRING",
+      "title": {
+        "native": "カウボーイビバップ",
+        "romaji": "Cowboy Bebop",
+        "english": "Cowboy Bebop"
+      },
+      "currentEpisode": 26,
+      "mappings": [
+        {
+          "id": "/category/cowboy-bebop",
+          "providerId": "gogoanime",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/category/cowboy-bebop-dub",
+          "providerId": "gogoanime",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/cowboy-bebop-27?ref=search",
+          "providerId": "zoro",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "1",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/30991",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/84469",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        }
+      ],
+      "synonyms": [
+        "카우보이 비밥",
+        "קאובוי ביבופ",
+        "คาวบอย บีบ๊อป",
+        "Ковбой Бибоп",
+        "Καουμπόηδες του Διαστήματος"
+      ],
+      "countryOfOrigin": "JP",
+      "description": "Enter a world in the distant future, where Bounty Hunters roam the solar system. Spike and Jet, bounty hunting partners, set out on journeys in an ever struggling effort to win bounty rewards to survive.<br><br>\nWhile traveling, they meet up with other very interesting people. Could Faye, the beautiful and ridiculously poor gambler, Edward, the computer genius, and Ein, the engineered dog be a good addition to the group?",
+      "duration": 24,
+      "color": null,
+      "year": 1998,
+      "rating": {
+        "mal": 8.75,
+        "kitsu": 8.2,
+        "anilist": 8.6
+      },
+      "popularity": {
+        "mal": 43,
+        "kitsu": null,
+        "anilist": 306251
+      },
+      "type": "ANIME",
+      "format": "TV",
+      "relations": [],
+      "totalEpisodes": 26,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Award Winning",
+        "Comedy",
+        "Space"
+      ],
+      "tags": [
+        "Space",
+        "Crime",
+        "Episodic",
+        "Ensemble Cast",
+        "Primarily Adult Cast",
+        "Noir",
+        "Tragedy",
+        "Guns",
+        "Cyberpunk",
+        "Male Protagonist",
+        "Tomboy",
+        "Philosophy",
+        "Martial Arts",
+        "Anti-Hero",
+        "Terrorism",
+        "Amnesia",
+        "Travel",
+        "Cyborg",
+        "Gambling",
+        "Drugs",
+        "Yakuza",
+        "Cult",
+        "Tanned Skin",
+        "Police",
+        "Gender Bending"
+      ],
+      "averageRating": 8.52,
+      "averagePopularity": 153147
+    },
+    {
+      "id": "100",
+      "malId": "100",
+      "slug": "shin-shirayuki-hime-densetsu-pretear",
+      "kitsuId": "79",
+      "coverImage": "https://media.kitsu.io/anime/poster_images/79/original.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100-7OrYM39mGaom.jpg",
+      "trailer": "",
+      "status": "FINISHED",
+      "season": "SPRING",
+      "title": {
+        "native": "新白雪姫伝説プリーティア",
+        "romaji": "Shin Shirayuki-hime Densetsu Prétear",
+        "english": "Prétear: The New Legend of Snow White"
+      },
+      "currentEpisode": 13,
+      "mappings": [
+        {
+          "id": "/category/pretear",
+          "providerId": "gogoanime",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/category/shin-shirayukihime-densetsu-pretear-dub",
+          "providerId": "gogoanime",
+          "similarity": {
+            "same": true,
+            "value": 0.9253731343283582
+          }
+        },
+        {
+          "id": "79",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/42930",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "79",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/42930",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        }
+      ],
+      "synonyms": [
+        "Shin Shirayuki-hime Densetsu Pretear"
+      ],
+      "countryOfOrigin": "JP",
+      "description": "A sixteen year old girl is struggling to adjust to a new step-family when seven guys appear on the scene revealing that she possesses a special magical power. Shying away from the strange group, she later joins them when a monster places her friend's life in jeopardy. Without training, she must prove herself capable to take up the sacred duty of the Pretear. They must resolve their differences and work together to defeat the evil princess intent on destruction. <br><br>\n(Source: FUNimation) ",
+      "duration": 23,
+      "color": null,
+      "year": 2001,
+      "rating": {
+        "mal": 7.16,
+        "kitsu": 7.21,
+        "anilist": 6.6
+      },
+      "popularity": {
+        "mal": 2582,
+        "kitsu": null,
+        "anilist": 7384
+      },
+      "type": "ANIME",
+      "format": "TV",
+      "relations": [],
+      "totalEpisodes": 13,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mahou Shoujo",
+        "Romance",
+        "Magic",
+        "Super Power"
+      ],
+      "tags": [
+        "Magic",
+        "Henshin",
+        "Male Harem",
+        "Family Life",
+        "Shoujo",
+        "Female Protagonist",
+        "Maids",
+        "Fairy Tale",
+        "Tragedy",
+        "Tsundere",
+        "Ojou-sama",
+        "Love Triangle",
+        "Swordplay",
+        "Heterosexual"
+      ],
+      "averageRating": 6.99,
+      "averagePopularity": 4983
+    },
+    {
+      "id": "1000",
+      "malId": "1000",
+      "slug": "uchuu-kaizoku-captain-herlock",
+      "kitsuId": "890",
+      "coverImage": "https://media.kitsu.io/anime/poster_images/890/original.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1000-bRbPiTJ2PAYp.jpg",
+      "trailer": "",
+      "status": "FINISHED",
+      "season": "SPRING",
+      "title": {
+        "native": "宇宙海賊・キャプテンハーロック",
+        "romaji": "Uchuu Kaizoku Captain Harlock",
+        "english": "Space Pirate Captain Harlock"
+      },
+      "currentEpisode": 42,
+      "mappings": [
+        {
+          "id": "/category/space-pirate-captain-harlock",
+          "providerId": "gogoanime",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/space-pirate-captain-harlock-1901?ref=search",
+          "providerId": "zoro",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/space-pirate-captain-harlock-1004?ref=search",
+          "providerId": "zoro",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "7624",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "890",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/movie/192577",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/31714",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "7624",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "890",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/movie/192577",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/31714",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "7624",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "890",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/movie/192577",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/31714",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        }
+      ],
+      "synonyms": [
+        "Harlock TV",
+        "Albator 78",
+        "El Capità Harlock"
+      ],
+      "countryOfOrigin": "JP",
+      "description": "The year is 2977. Mankind has become complacent and stagnant. All work is done by machines, while humans spend all their time on entertainment. But when a mysterious invader from the stars catches Earth unawares, only the legendary space pirate Captain Harlock and the crew of the Arcadia have the will to stand against them. <br><br>\n(Source: Anime News Network)",
+      "duration": 25,
+      "color": null,
+      "year": 1978,
+      "rating": {
+        "mal": 7.69,
+        "kitsu": 7.51,
+        "anilist": 7.2
+      },
+      "popularity": {
+        "mal": 3482,
+        "kitsu": null,
+        "anilist": 7833
+      },
+      "type": "ANIME",
+      "format": "TV",
+      "relations": [],
+      "totalEpisodes": 42,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Space"
+      ],
+      "tags": [
+        "Space Opera",
+        "Pirates",
+        "Aliens",
+        "Space",
+        "Seinen",
+        "Fugitive",
+        "Male Protagonist",
+        "Primarily Adult Cast",
+        "Nudity"
+      ],
+      "averageRating": 7.47,
+      "averagePopularity": 5657.5
+    },
+    {
+      "id": "10000",
+      "malId": "10000",
+      "slug": "esper-mami-special--my-angel-mami-chan",
+      "kitsuId": "5988",
+      "coverImage": "https://media.kitsu.io/anime/poster_images/5988/original.jpg",
+      "bannerImage": "",
+      "trailer": "",
+      "status": "FINISHED",
+      "season": "WINTER",
+      "title": {
+        "native": "エスパー魔美スペシャル マイエンジェル魔美ちゃん",
+        "romaji": "Esper Mami Special: My Angel Mami-chan",
+        "english": null
+      },
+      "currentEpisode": 1,
+      "mappings": [
+        {
+          "id": "5988",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "5988",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "5988",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "5988",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        }
+      ],
+      "synonyms": [],
+      "countryOfOrigin": "JP",
+      "description": "An end-of-year special, aired between episodes 84 and 85.",
+      "duration": 23,
+      "color": null,
+      "year": 1988,
+      "rating": {
+        "mal": null,
+        "kitsu": null,
+        "anilist": 5.2
+      },
+      "popularity": {
+        "mal": 15044,
+        "kitsu": null,
+        "anilist": 126
+      },
+      "type": "ANIME",
+      "format": "SPECIAL",
+      "relations": [],
+      "totalEpisodes": 1,
+      "genres": [
+        "Comedy",
+        "Supernatural",
+        "Super Power"
+      ],
+      "tags": [
+        "Super Power"
+      ],
+      "averageRating": 5.2,
+      "averagePopularity": 7585
+    },
+    {
+      "id": "100009",
+      "malId": "36267",
+      "slug": "space-battleship-tiramisu",
+      "kitsuId": "",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100009-1d7604sGIszI.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100009-KUxEsZ8NTUzY.png",
+      "trailer": "https://www.youtube.com/watch?v=9RHDH60WU74",
+      "status": "FINISHED",
+      "season": "SPRING",
+      "title": {
+        "native": "宇宙戦艦ティラミス",
+        "romaji": "Uchuu Senkan Tiramisù",
+        "english": "Space Battleship Tiramisu"
+      },
+      "currentEpisode": 13,
+      "mappings": [
+        {
+          "id": "/space-battleship-tiramisu-6415?ref=search",
+          "providerId": "zoro",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/78461",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/78461",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/78461",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/78461",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/78461",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        }
+      ],
+      "synonyms": [
+        "Uchuu Senkan Tiramisù"
+      ],
+      "countryOfOrigin": "JP",
+      "description": "The human race extended it's life field and greed to the vast reaches of space... In Space Era 0156, a war breaks out amidst all of the colonies. Earth begins to construct a new space battleship called Tiramisu in secret. Just as the war begins, one genius pilot steers the Tiramisu as a beacon of hope for humanity.\n",
+      "duration": 7,
+      "color": null,
+      "year": 2018,
+      "rating": {
+        "mal": 6.37,
+        "kitsu": 0,
+        "anilist": 5.9
+      },
+      "popularity": {
+        "mal": 3939,
+        "kitsu": 0,
+        "anilist": 6943
+      },
+      "type": "ANIME",
+      "format": "TV_SHORT",
+      "relations": [],
+      "totalEpisodes": 13,
+      "genres": [
+        "Comedy",
+        "Mecha",
+        "Sci-Fi",
+        "Slice of Life"
+      ],
+      "tags": [
+        "Parody",
+        "Space",
+        "Real Robot",
+        "Super Robot",
+        "Food",
+        "Robots",
+        "Seinen",
+        "Surreal Comedy",
+        "War",
+        "Nudity",
+        "Male Protagonist"
+      ],
+      "averageRating": 6.13,
+      "averagePopularity": 5441
+    },
+    {
+      "id": "100010",
+      "malId": "36266",
+      "slug": "mahou-shoujo-site",
+      "kitsuId": "14137",
+      "coverImage": "https://media.kitsu.io/anime/poster_images/14137/original.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100010-WZMK7JXMAi2i.jpg",
+      "trailer": "https://www.youtube.com/watch?v=ywv_moZemPk",
+      "status": "FINISHED",
+      "season": "SPRING",
+      "title": {
+        "native": "魔法少女サイト",
+        "romaji": "Mahou Shoujo Site",
+        "english": "Magical Girl Site"
+      },
+      "currentEpisode": 12,
+      "mappings": [
+        {
+          "id": "/category/mahou-shoujo-site",
+          "providerId": "gogoanime",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/magical-girl-site-5887?ref=search",
+          "providerId": "zoro",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "14137",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/77702",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "14137",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/77702",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "14137",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/77702",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "14137",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/77702",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "14137",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/77702",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "14137",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/tv/77702",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        }
+      ],
+      "synonyms": [
+        "Garota Mágica .Com"
+      ],
+      "countryOfOrigin": "JP",
+      "description": "Asagiri Aya is a young girl who has fallen victim to bullies at her school. Looking for a way to escape her troubles, she looks to the internet for distraction, when a mysterious website called \"Magical Girl Site\" appears. Simply viewing the page is all it takes to hurtle Aya headlong into the deadly world of the Magical Girl Apocalypse. There, it’s fight or die, against a seemingly endless array of savagely adorable, frilly-skirted killing machines, each armed with magical powers and an unquenchable thirst for blood and chaos. \n<br><br>\n(Source: Seven Seas Entertainment)",
+      "duration": 25,
+      "color": null,
+      "year": 2018,
+      "rating": {
+        "mal": 6.52,
+        "kitsu": 6.34,
+        "anilist": 6
+      },
+      "popularity": {
+        "mal": 986,
+        "kitsu": null,
+        "anilist": 52873
+      },
+      "type": "ANIME",
+      "format": "TV",
+      "relations": [],
+      "totalEpisodes": 12,
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Mahou Shoujo",
+        "Psychological",
+        "Supernatural"
+      ],
+      "tags": [
+        "Magic",
+        "Female Protagonist",
+        "Witch",
+        "Bullying",
+        "Primarily Female Cast",
+        "Battle Royale",
+        "Tragedy",
+        "Gore",
+        "Urban Fantasy",
+        "Primarily Teen Cast",
+        "Ensemble Cast",
+        "School",
+        "Transgender",
+        "Rape",
+        "Time Manipulation",
+        "Idol",
+        "Body Horror",
+        "Shounen",
+        "Nudity",
+        "Revenge"
+      ],
+      "averageRating": 6.29,
+      "averagePopularity": 26929.5
+    },
+    {
+      "id": "100049",
+      "malId": "36286",
+      "slug": "re-zero--starting-life-in-another-world--ovas",
+      "kitsuId": "13882",
+      "coverImage": "https://media.kitsu.io/anime/poster_images/13882/original.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100049-jlQ24bwYluey.jpg",
+      "trailer": "https://www.youtube.com/watch?v=HI3JBI5pENg",
+      "status": "FINISHED",
+      "season": "FALL",
+      "title": {
+        "native": "Re：ゼロから始める異世界生活 OVA",
+        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu: Memory Snow",
+        "english": "Re:ZERO -Starting Life in Another World- Memory Snow"
+      },
+      "currentEpisode": 2,
+      "mappings": [
+        {
+          "id": "/category/rezero-kara-hajimeru-isekai-seikatsu-hyouketsu-no-kizuna-dub",
+          "providerId": "gogoanime",
+          "similarity": {
+            "same": true,
+            "value": 0.9142857142857143
+          }
+        },
+        {
+          "id": "/rezero-starting-life-in-another-world-212?ref=search",
+          "providerId": "zoro",
+          "similarity": {
+            "same": true,
+            "value": 0.9444444444444444
+          }
+        },
+        {
+          "id": "11209",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 0.9444444444444444
+          }
+        },
+        {
+          "id": "13882",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 0.9534883720930233
+          }
+        },
+        {
+          "id": "11209",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 0.9444444444444444
+          }
+        },
+        {
+          "id": "13882",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 0.9534883720930233
+          }
+        },
+        {
+          "id": "11209",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 0.9444444444444444
+          }
+        },
+        {
+          "id": "13882",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 0.9534883720930233
+          }
+        },
+        {
+          "id": "11209",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 0.9444444444444444
+          }
+        },
+        {
+          "id": "13882",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 0.9534883720930233
+          }
+        },
+        {
+          "id": "11209",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 0.9444444444444444
+          }
+        },
+        {
+          "id": "13882",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 0.9534883720930233
+          }
+        },
+        {
+          "id": "11209",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 0.9444444444444444
+          }
+        },
+        {
+          "id": "13882",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 0.9534883720930233
+          }
+        },
+        {
+          "id": "11209",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 0.9444444444444444
+          }
+        },
+        {
+          "id": "13882",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 0.9534883720930233
+          }
+        },
+        {
+          "id": "11209",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 0.9444444444444444
+          }
+        },
+        {
+          "id": "13882",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 0.9534883720930233
+          }
+        }
+      ],
+      "synonyms": [
+        "Re:ZERO -Starting Life in Another World- Memory Snow",
+        "Re:ZERO -Starting Life in Another World- The Frozen Bond",
+        "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow",
+        "Re:Zero kara Hajimeru Isekai Seikatsu: Hyouketsu no Kizuna",
+        "Re:ゼロから始める異世界生活 Memory Snow",
+        "Re:ゼロから始める異世界生活 氷結の絆",
+        "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก Memory Snow",
+        "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก The Frozen Bond",
+        "Re: Life in a different world from zero",
+        "ReZero",
+        "Re:Zero kara Hajimeru Isekai Seikatsu OVA"
+      ],
+      "countryOfOrigin": "JP",
+      "description": "<strong>Episode 1 - Memory Snow</strong><br>\nSubaru Natsuki finally gets to take a breather, but he does not waste any time as he prepares for a date with his beloved Emilia. He scouts the nearby village for the right dating spot, and with the help of the village children, he finds a wonderful location. With that, he is well prepared for his date!<br>\n<br>\nUnfortunately for Subaru, cold weather suddenly sweeps across Roswaal's mansion on his important day, leaving him with no choice but to postpone the date. Overnight, it becomes even colder and unbearable. Subaru must get to the bottom of this because, at this rate, his date will be the least of his worries.<br><br>\n<strong>Episode 2 - The Frozen Bond</strong><br>\nCovered in ice and snow, Elior Forest is the home to dangerous magical beasts and 50 elves frozen in ice. One day, the great spirit Puck helps a young girl break out of her ice prison. Her name is Emilia, a half-elf born with silver hair, long ears, and amethyst eyes—features that resemble the evil Witch who destroyed half the world long ago.<br>\n<br>\nShunned by society because of her appearance, Emilia dwells in the forest with Puck as her sole companion and family. Burdened with a sin of destruction she does not remember committing, she spends her days trying to find a way to help her frozen kin. But when the great spirit Melakuera, the Arbitrator of the world, finds Emilia, her right to stay alive is brought into question. Will the bonds of ice she formed with Puck prove to be the warm thread that defies fate?\n",
+      "duration": 68,
+      "color": null,
+      "year": 2018,
+      "rating": {
+        "mal": 7.56,
+        "kitsu": 7.81,
+        "anilist": 7.6
+      },
+      "popularity": {
+        "mal": 807,
+        "kitsu": null,
+        "anilist": 72157
+      },
+      "type": "ANIME",
+      "format": "OVA",
+      "relations": [],
+      "totalEpisodes": 2,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Psychological",
+        "Thriller",
+        "Isekai"
+      ],
+      "tags": [
+        "Isekai",
+        "Female Protagonist",
+        "Elf",
+        "Magic",
+        "Male Protagonist",
+        "Witch",
+        "Twins",
+        "Maids",
+        "Shapeshifting",
+        "Kuudere",
+        "Monster Girl",
+        "Amnesia",
+        "Demons"
+      ],
+      "averageRating": 7.66,
+      "averagePopularity": 36482
+    },
+    {
+      "id": "10005",
+      "malId": "10005",
+      "slug": "tetsujin-28-gou--hakuchuu-no-zangetsu",
+      "kitsuId": "5991",
+      "coverImage": "https://media.kitsu.io/anime/poster_images/5991/original.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10005-QlzNJmFObmLR.jpg",
+      "trailer": "",
+      "status": "FINISHED",
+      "season": "SPRING",
+      "title": {
+        "native": "鉄人２８号 白昼の残月",
+        "romaji": "Tetsujin 28-gou: Hakuchuu no Zangetsu",
+        "english": "Tetsujin28: Morning Moon of Mid-day"
+      },
+      "currentEpisode": 1,
+      "mappings": [
+        {
+          "id": "/category/tetsujin-28-gou-hakuchuu-no-zangetsu",
+          "providerId": "gogoanime",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "5991",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/movie/90782",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "5991",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/movie/90782",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "5991",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/movie/90782",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "5991",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/movie/90782",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "5991",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/movie/90782",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "5991",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/movie/90782",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "5991",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/movie/90782",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "5991",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/movie/90782",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "5991",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "/movie/90782",
+          "providerId": "tmdb",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        }
+      ],
+      "synonyms": [
+        "Tetsujin 28-go: Hakuchuu no Zangetsu",
+        "Tetsujin 28: The Lingering Moon of Midday",
+        "Tetsujin #28: The Daytime Moon",
+        "Tetsujin28: Morning Moon of Mid-day"
+      ],
+      "countryOfOrigin": "JP",
+      "description": "This theatrical version based on the manga by Yokoyama Mitsuteru, deals with the genius boy detective Kaneda Shotaro and his giant robot, Tetsujin 28, set in Tokyo ten years after the end of the Second World War.<br><br>\nShotaro's missing brother appears as a a new character who was trained as a pilot of the soldier robot Tetsujin which Japan had created for the Second World War. However, with the end of the war, there was nothing left for him but a peaceful Japan. In the meantime, \"Destruction Bombs\" are found in many places in Tokyo. The bombs were developed by Professor Kaneda, the creator of Tetsujin 28 and Shotaro's father, as the ultimate weapons to protect the mainland. If the bombs explode, Tokyo will be reduced to ashes.",
+      "duration": 95,
+      "color": null,
+      "year": 2007,
+      "rating": {
+        "mal": 6.36,
+        "kitsu": 7.26,
+        "anilist": 6.2
+      },
+      "popularity": {
+        "mal": 12308,
+        "kitsu": null,
+        "anilist": 359
+      },
+      "type": "ANIME",
+      "format": "MOVIE",
+      "relations": [],
+      "totalEpisodes": 1,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "tags": [
+        "Male Protagonist"
+      ],
+      "averageRating": 6.61,
+      "averagePopularity": 6333.5
+    },
+    {
+      "id": "100050",
+      "malId": "null",
+      "slug": "library-cross-infinite",
+      "kitsuId": "40873",
+      "coverImage": "https://media.kitsu.io/anime/poster_images/40873/original.jpg",
+      "bannerImage": "",
+      "trailer": "",
+      "status": "NOT_YET_RELEASED",
+      "season": "UNKNOWN",
+      "title": {
+        "native": "LibraryCross∞",
+        "romaji": "Library Cross Infinite",
+        "english": "Library Cross Infinite"
+      },
+      "currentEpisode": null,
+      "mappings": [
+        {
+          "id": "40873",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "40873",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "40873",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "40873",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "40873",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "40873",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "40873",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "40873",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "40873",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        },
+        {
+          "id": "40873",
+          "providerId": "kitsu",
+          "similarity": {
+            "same": true,
+            "value": 1
+          }
+        }
+      ],
+      "synonyms": [],
+      "countryOfOrigin": "JP",
+      "description": "Based on Otomate's puzzle role-playing game.\n<br><br>\nA medical student named Shiina and nine male partners are trapped in a certain dimensional realm with many ancient texts and an enormous mysterious clock. Together, they must find a way to escape by uncovering clues before the clock strikes \"13.\"\n<br><br>\n(Source: Anime News Network)",
+      "duration": null,
+      "color": null,
+      "year": null,
+      "rating": {
+        "mal": 0,
+        "kitsu": null,
+        "anilist": null
+      },
+      "popularity": {
+        "mal": 0,
+        "kitsu": null,
+        "anilist": 326
+      },
+      "type": "ANIME",
+      "format": "TV",
+      "relations": [],
+      "totalEpisodes": 0,
+      "genres": [
+        "Romance",
+        "Game"
+      ],
+      "tags": [
+        "Male Harem",
+        "Female Protagonist",
+        "Primarily Male Cast"
+      ],
+      "averageRating": 0,
+      "averagePopularity": 326
+    }
+  ],
+  "manga": []
+}
