@@ -17,7 +17,7 @@
         "dev": "ts-node -r tsconfig-paths/register src/index.ts",
         "crawl": "ts-node -r tsconfig-paths/register src/crawl.ts",
         "start": "node ./dist/index.js",
-        "build": "npm run build:db && npm run build:ts",
+        "build": "npm run build:db", // && npm run build:ts",
         "build:ts": "tsc --build",
         "build:db": "npm run db:generate && npm run db:push && npm run db:validate",
         "db:generate": "npx prisma generate",
